@@ -14,9 +14,8 @@ resource link: https://www.w3schools.com/python/python_regex.asp
 pip install parse 
 pip install pdfplumber
 
-Image of my sample pdf
-
+Image of my sample pdf that I used
+![sample_pdf_image](https://user-images.githubusercontent.com/68302187/146412556-8024b243-7452-45a2-b2f0-1a4485bccb45.png)
 
 Image of Excel sheet
-
-
+![excel_converted_image](https://user-images.githubusercontent.com/68302187/146412574-5a2e2413-1289-4fe3-bdd8-faf64dd5b89f.png)
