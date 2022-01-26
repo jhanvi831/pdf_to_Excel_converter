@@ -12,8 +12,8 @@ I took help from w3schools.com
 resource link: https://www.w3schools.com/python/python_regex.asp
 
 # INSTALLATION 
-pip install parse 
-pip install pdfplumber
+    pip install parse 
+    pip install pdfplumber
 
 
 # IMAGES 
