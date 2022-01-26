@@ -1,5 +1,5 @@
 
-#PDF to EXCEL CONVERTER
+# PDF to EXCEL CONVERTER
 
 This code helps convert a pdf file to an excel sheet.
 Unlike most of the converters this can convert NON-Tabular data to Excel sheet.
@@ -11,12 +11,13 @@ Understanding how Python RegEx Module works will help.
 I took help from w3schools.com
 resource link: https://www.w3schools.com/python/python_regex.asp
 
-#INSTALLATION 
+# INSTALLATION 
 pip install parse 
 pip install pdfplumber
 
 
-#IMAGES
+# IMAGES 
+
 Image of my sample pdf that I used
 
 ![sample_pdf_image](https://user-images.githubusercontent.com/68302187/146412556-8024b243-7452-45a2-b2f0-1a4485bccb45.png)
