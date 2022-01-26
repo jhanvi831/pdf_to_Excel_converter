@@ -11,12 +11,12 @@ Understanding how Python RegEx Module works will help.
 I took help from w3schools.com
 resource link: https://www.w3schools.com/python/python_regex.asp
 
-# INSTALLATION 
+## INSTALLATION 
     pip install parse 
     pip install pdfplumber
 
 
-# IMAGES 
+## IMAGES 
 
 Image of my sample pdf that I used
 
@@ -29,5 +29,5 @@ Image of Excel sheet formed after conversion
 ![excel_converted_image](https://user-images.githubusercontent.com/68302187/146412574-5a2e2413-1289-4fe3-bdd8-faf64dd5b89f.png)
 
 
-Reference video link: https://www.youtube.com/watch?v=syEfR1QIGcY (Pythonic Accountant)
+*Reference video link: https://www.youtube.com/watch?v=syEfR1QIGcY (Pythonic Accountant)
 @danshorstein
