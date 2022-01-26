@@ -29,5 +29,5 @@ Image of Excel sheet formed after conversion
 ![excel_converted_image](https://user-images.githubusercontent.com/68302187/146412574-5a2e2413-1289-4fe3-bdd8-faf64dd5b89f.png)
 
 
-*Reference video link: https://www.youtube.com/watch?v=syEfR1QIGcY (Pythonic Accountant)
-@danshorstein
+**Reference video link: https://www.youtube.com/watch?v=syEfR1QIGcY (Pythonic Accountant)
+@danshorstein**
